@@ -1,0 +1,12 @@
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\bin\Debug\net6.0\Said.PetStore.RestApi.Client.deps.json
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\bin\Debug\net6.0\Said.PetStore.RestApi.Client.dll
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\bin\Debug\net6.0\Said.PetStore.RestApi.Client.pdb
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.csproj.AssemblyReference.cache
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.AssemblyInfoInputs.cache
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.AssemblyInfo.cs
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.dll
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\refint\Said.PetStore.RestApi.Client.dll
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\Said.PetStore.RestApi.Client.pdb
+C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi.Client\obj\Debug\net6.0\ref\Said.PetStore.RestApi.Client.dll

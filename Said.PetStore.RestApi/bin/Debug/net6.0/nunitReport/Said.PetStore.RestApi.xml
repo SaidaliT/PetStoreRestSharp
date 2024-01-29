@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" name="Said.PetStore.RestApi.dll" fullname="C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi\bin\Debug\net6.0\Said.PetStore.RestApi.dll" runstate="Runnable" testcasecount="3" result="Passed" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.15.4.0" clr-version="6.0.24" start-time="2024-01-29 07:46:23Z" end-time="2024-01-29 07:46:26Z" duration="3.055556">
+  <command-line><![CDATA[C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi\bin\Debug\net6.0\testhost.dll --port 54416 --endpoint 127.0.0.1:054416 --role client --parentprocessid 5404 --telemetryoptedin true]]></command-line>
+  <filter>
+    <or>
+      <test>Said.PetStore.RestApi.Tests.Pets.GetPetByIdApiTest.GetFirstPet_IdExists_ShouldBeReturned</test>
+      <test>Said.PetStore.RestApi.Tests.Pets.PostPetApiTest.CreatePet_WithCategoryDoesNotExist_ShouldBeCreated</test>
+      <test>Said.PetStore.RestApi.Tests.Pets.PostPetApiTest.CreatePet_WithCorrectData_ShouldBeCreated</test>
+    </or>
+  </filter>
+  <test-suite type="Assembly" id="0-1005" name="Said.PetStore.RestApi.dll" fullname="C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi\bin\Debug\net6.0\Said.PetStore.RestApi.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2024-01-29T07:46:23.3397541Z" end-time="2024-01-29T07:46:26.3771941Z" duration="3.037339" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="4.0.1.0" clr-version="6.0.24" os-version="Microsoft Windows 10.0.19045" platform="Win32NT" cwd="C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi\bin\Debug\net6.0" machine-name="PIC4252" user="saidali.t" user-domain="PITSOLUTION" culture="en-IN" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="SynchronousEvents" value="False" />
+      <setting name="InternalTraceLevel" value="Off" />
+      <setting name="RandomSeed" value="291616806" />
+      <setting name="TestParametersDictionary" value="[baseUrl, https://petstore.swagger.io/v2]">
+        <item key="baseUrl" value="https://petstore.swagger.io/v2" />
+      </setting>
+      <setting name="TestParameters" value="baseUrl=https://petstore.swagger.io/v2" />
+      <setting name="SkipNonTestAssemblies" value="True" />
+      <setting name="ProcessModel" value="InProcess" />
+      <setting name="DomainUsage" value="Single" />
+      <setting name="DefaultTestNamePattern" value="{m}{a}" />
+      <setting name="WorkDirectory" value="C:\Users\saidali.t\source\repos\Said.PetStore.RestApi\Said.PetStore.RestApi\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="18688" />
+      <property name="_APPDOMAIN" value="testhost" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1006" name="Said" fullname="Said" runstate="Runnable" testcasecount="3" result="Passed" start-time="2024-01-29T07:46:23.3472443Z" end-time="2024-01-29T07:46:26.3771890Z" duration="3.029943" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestSuite" id="0-1007" name="PetStore" fullname="Said.PetStore" runstate="Runnable" testcasecount="3" result="Passed" start-time="2024-01-29T07:46:23.3474397Z" end-time="2024-01-29T07:46:26.3771871Z" duration="3.029746" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestSuite" id="0-1008" name="RestApi" fullname="Said.PetStore.RestApi" runstate="Runnable" testcasecount="3" result="Passed" start-time="2024-01-29T07:46:23.3474468Z" end-time="2024-01-29T07:46:26.3771849Z" duration="3.029737" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <test-suite type="TestSuite" id="0-1009" name="Tests" fullname="Said.PetStore.RestApi.Tests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2024-01-29T07:46:23.3474491Z" end-time="2024-01-29T07:46:26.3771828Z" duration="3.029732" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+            <test-suite type="TestSuite" id="0-1010" name="Pets" fullname="Said.PetStore.RestApi.Tests.Pets" runstate="Runnable" testcasecount="3" result="Passed" start-time="2024-01-29T07:46:23.3474508Z" end-time="2024-01-29T07:46:26.3771803Z" duration="3.029728" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+              <test-suite type="TestFixture" id="0-1000" name="GetPetByIdApiTest" fullname="Said.PetStore.RestApi.Tests.Pets.GetPetByIdApiTest" classname="Said.PetStore.RestApi.Tests.Pets.GetPetByIdApiTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2024-01-29T07:46:23.3485945Z" end-time="2024-01-29T07:46:25.4259390Z" duration="2.077344" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+                <test-case id="0-1001" name="GetFirstPet_IdExists_ShouldBeReturned" fullname="Said.PetStore.RestApi.Tests.Pets.GetPetByIdApiTest.GetFirstPet_IdExists_ShouldBeReturned" methodname="GetFirstPet_IdExists_ShouldBeReturned" classname="Said.PetStore.RestApi.Tests.Pets.GetPetByIdApiTest" runstate="Runnable" seed="1556957744" result="Passed" start-time="2024-01-29T07:46:23.3818151Z" end-time="2024-01-29T07:46:25.4232057Z" duration="2.041435" asserts="0" />
+              </test-suite>
+              <test-suite type="TestFixture" id="0-1002" name="PostPetApiTest" fullname="Said.PetStore.RestApi.Tests.Pets.PostPetApiTest" classname="Said.PetStore.RestApi.Tests.Pets.PostPetApiTest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2024-01-29T07:46:25.4279882Z" end-time="2024-01-29T07:46:26.3771741Z" duration="0.949185" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+                <test-case id="0-1004" name="CreatePet_WithCategoryDoesNotExist_ShouldBeCreated" fullname="Said.PetStore.RestApi.Tests.Pets.PostPetApiTest.CreatePet_WithCategoryDoesNotExist_ShouldBeCreated" methodname="CreatePet_WithCategoryDoesNotExist_ShouldBeCreated" classname="Said.PetStore.RestApi.Tests.Pets.PostPetApiTest" runstate="Runnable" seed="110319030" result="Passed" start-time="2024-01-29T07:46:25.4282499Z" end-time="2024-01-29T07:46:26.1436964Z" duration="0.715447" asserts="0" />
+                <test-case id="0-1003" name="CreatePet_WithCorrectData_ShouldBeCreated" fullname="Said.PetStore.RestApi.Tests.Pets.PostPetApiTest.CreatePet_WithCorrectData_ShouldBeCreated" methodname="CreatePet_WithCorrectData_ShouldBeCreated" classname="Said.PetStore.RestApi.Tests.Pets.PostPetApiTest" runstate="Runnable" seed="345898673" result="Passed" start-time="2024-01-29T07:46:26.1437281Z" end-time="2024-01-29T07:46:26.3771120Z" duration="0.233384" asserts="0" />
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

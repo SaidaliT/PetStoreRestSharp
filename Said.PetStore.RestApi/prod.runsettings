@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RunSettings>
+<TestRunParameters>
+<Parameter name="baseUrl" value="https://petstore.swagger.io/v2"/>
+</TestRunParameters>
+<NUnit>
+<TestOutputXml>nunitReport</TestOutputXml>
+</NUnit>
+</RunSettings>
