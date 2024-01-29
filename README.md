@@ -9,7 +9,7 @@ This repository contains a C# project built to interact with the PET API using t
 - An IDE that supports C# (like Visual Studio or VS Code)
 
 ## Setup
-1. Clone the repository: `git clone <repo-link>`
+1. Clone the repository: `https://github.com/SaidaliT/PetStoreRestSharp.git`
 2. Open the solution file with your preferred IDE.
 3. Make sure all the required libraries are included.
 
