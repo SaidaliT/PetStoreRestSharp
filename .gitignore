@@ -133,3 +133,15 @@ $RECYCLE.BIN/
 _NCrunch*
 
 .vs
+
+# .NET Core / .NET 5+
+**/.dotnet
+project.lock.json
+# Unit test runsettings file
+*.runsettings
+# Node Package Manager
+node_modules/
+# Backup files
+*.bak
+# Global sdk restriction
+global.json
